@@ -1,4 +1,4 @@
-Crimson
+Crismon
 Orange
 Blue
 Cyan
@@ -11,4 +11,3 @@ Fuchsia
 Purple
 Brown
 Red
-Dark blue
